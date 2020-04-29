@@ -1,2 +1,3 @@
 Hello
 I am jaaechonjang
+Git & GitHub Study
